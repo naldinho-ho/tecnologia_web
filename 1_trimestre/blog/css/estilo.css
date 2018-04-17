@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding : 0;
+}
+
+body{
+  background-color: #DADADA;
+}
+
+.login{
+  border: solid 2px #AFAFAF;
+  width: 250px;
+  margin: 10px auto;
+  padding: 50px;
+  text-align: center;
+  background-color: #FFFFFF;
+}
+
+.campo{
+  padding: 15px 10px;
+  width: 250px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  border: solid 1px #AFAFAF;
+}
+.campo:hover{
+  background-color: #809fff
+}
+
+.login img{
+  margin-bottom: 10px;
+}
+
+.botao{
+  padding: 5px 10px;
+  background-color: #3399ff;
+  border: solid 1px #003366;
+  color: #FFFFFF;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.botao:hover{
+  background-color: #0073e6;
+}
+
+.esqueceu{
+  padding: 5px 10px;
+  border: solid 1px #0099cc;
+}
+.esqueceu:hover{
+  background-color: #809fff
+}
